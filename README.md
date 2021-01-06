@@ -31,7 +31,7 @@ Neural Style Transfer algorithm blends two images together, out of the two image
 <br>
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1gHfoiZldA_JZwm_dWZlOXeleok2unD7P" width="450px" height="300px">
+<img src="https://github.com/divy-14/Data-structures-and-Algorithms/blob/master/Result_images/mosaic_lotus_temple.jpg" width="450px" height="300px">
 <img src="https://github.com/divy-14/Neural-Style-Transfer/blob/main/images/style-images/mosaic.jpg" width="300px" height="300px">
 </p>
 
