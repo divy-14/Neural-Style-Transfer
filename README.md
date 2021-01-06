@@ -36,27 +36,27 @@ Neural Style Transfer algorithm blends two images together, out of the two image
 </p>
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1pEWd_J1-zUOw3akWpUVGakRc8qwcaQv2" width="450px" height="300px">
+<img src="https://github.com/divy-14/Data-structures-and-Algorithms/blob/master/Result_images/tg_lotus_temple.jpg" width="450px" height="300px">
 <img src="https://github.com/divy-14/Neural-Style-Transfer/blob/main/images/style-images/tg.jpg" width="300px" height="300px">
 </p>
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=135ziMhHnDySHjU18iUr-I3BacQyCHNz3" width="450px" height="300px">
+<img src="https://github.com/divy-14/Data-structures-and-Algorithms/blob/master/Result_images/rain_princess_lotus_temple.jpg" width="450px" height="300px">
 <img src="https://github.com/divy-14/Neural-Style-Transfer/blob/main/images/style-images/rain_princess.jpg" width="300px" height="300px">
 </p>
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1fcMghe08HSXySNGPFU7e7a_nYWg6ggmq" width="450px" height="300px">
+<img src="https://github.com/divy-14/Data-structures-and-Algorithms/blob/master/Result_images/udnie_lotus_temple.jpg" width="450px" height="300px">
 <img src="https://github.com/divy-14/Neural-Style-Transfer/blob/main/images/style-images/udnie.jpg" width="300px" height="300px">
 </p>
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1mkkXNNuG1PPgpu1Mz128MWlF10NwjWEG" width="450px" height="300px">
+<img src="https://github.com/divy-14/Data-structures-and-Algorithms/blob/master/Result_images/candy_lotus_temple.jpg" width="450px" height="300px">
 <img src="https://github.com/divy-14/Neural-Style-Transfer/blob/main/images/style-images/candy.jpg" width="300px" height="300px">
 </p>
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1YmWfVkfmGq8_xiI8XY9fBndrmgITMYlh" width="450px" height="300px">
+<img src="https://github.com/divy-14/Data-structures-and-Algorithms/blob/master/Result_images/ben_giles_taj_Mahal.jpg" width="450px" height="300px">
 <img src="https://github.com/divy-14/Neural-Style-Transfer/blob/main/images/style-images/ben_giles.jpg" width="300px" height="300px">
 </p>
 
@@ -65,7 +65,7 @@ Neural Style Transfer algorithm blends two images together, out of the two image
 <h1 align="center">YouTube Videos</h1>
 
 <p align="center">
-  <a href="http://www.youtube.com/watch?v=3eh-aVSQyhc"><img src="https://drive.google.com/uc?export=view&id=1YmWfVkfmGq8_xiI8XY9fBndrmgITMYlh" alt="StreamLit App Demo" width="450px" height="300px"></a>
+  <a href="http://www.youtube.com/watch?v=3eh-aVSQyhc"><img src="https://github.com/divy-14/Data-structures-and-Algorithms/blob/master/Result_images/ben_giles_taj_Mahal.jpg" alt="StreamLit App Demo" width="450px" height="300px"></a>
   <a href="http://www.youtube.com/watch?v=DfLgBga2Vek"><img src="http://img.youtube.com/vi/DfLgBga2Vek/0.jpg" alt="Montage NST" width="450px" height="300px"></a>
 </p>
 
