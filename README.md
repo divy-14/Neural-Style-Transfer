@@ -3,8 +3,6 @@
   
 Neural Style Transfer algorithm blends two images together, out of the two images one is known as the content image from where the algorithm takes the content and the other is called the style image from where the algorithm takes the style for the resultant images. This transfer of style from style image onto the content image is the idea behind Neural Style Transfer.
 
-<br>
-
 <h1 align="center">Style Images</h1>
 <p align="center">Currently the Repository consists of Models trained on the following style Images</p>
 
@@ -65,7 +63,7 @@ Neural Style Transfer algorithm blends two images together, out of the two image
 <h1 align="center">YouTube Videos</h1>
 
 <p align="center">
-  <a href="http://www.youtube.com/watch?v=3eh-aVSQyhc"><img src="https://github.com/divy-14/Data-structures-and-Algorithms/blob/master/Result_images/ben_giles_taj_Mahal.jpg" alt="StreamLit App Demo" width="450px" height="300px"></a>
-  <a href="http://www.youtube.com/watch?v=DfLgBga2Vek"><img src="http://img.youtube.com/vi/DfLgBga2Vek/0.jpg" alt="Montage NST" width="450px" height="300px"></a>
+  <a href="http://www.youtube.com/watch?v=3eh-aVSQyhc"><img src="https://github.com/divy-14/Data-structures-and-Algorithms/blob/master/Result_images/ben_giles_taj_Mahal.jpg" alt="StreamLit App Demo" width="400px" height="300px"></a>
+  <a href="http://www.youtube.com/watch?v=DfLgBga2Vek"><img src="http://img.youtube.com/vi/DfLgBga2Vek/0.jpg" alt="Montage NST" width="400px" height="300px"></a>
 </p>
 
