@@ -67,3 +67,10 @@ Neural Style Transfer algorithm blends two images together, out of the two image
   <a href="http://www.youtube.com/watch?v=DfLgBga2Vek"><img src="http://img.youtube.com/vi/DfLgBga2Vek/0.jpg" alt="Montage NST" width="400px" height="300px"></a>
 </p>
 
+<h1 align="center">Found a Bug</h1>
+<p> 
+If you find any bug or have any feature request, feel free to raise an issue or contact me on : divymohanrai@gmail.com
+If you want to contribute to this project please create a pull request.
+</p>
+
+#### If you liked ♥ this project, please hit that **STAR** button.
