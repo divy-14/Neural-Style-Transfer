@@ -70,6 +70,8 @@ Neural Style Transfer algorithm blends two images together, out of the two image
 <h1 align="center">Found a Bug</h1>
 <p> 
 If you find any bug or have any feature request, feel free to raise an issue or contact me on : <a href="mailto:divymohanrai@gmail.com"> Divy Mohan Rai </a>
+</p>
+<p>
 If you want to contribute to this project please create a pull request.
 </p>
 
